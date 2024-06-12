@@ -1,0 +1,10 @@
+ID	Name		Status		Salary
+443	Alice_Lee	permanant	65000
+576	Peter_Wang	Visiting	70000
+634	Karen_Chen	Visiting	75000
+743	David_Kim	permanant	80000
+832	Sarah_Lee	Visiting	85000
+932	Mike_Brown	Visiting	90000
+144	Lisa_Liu	permanant	95000
+97416	zainab Eman	permanant	560000 
+789	noor fatima	visiting	78000

@@ -1,0 +1,10 @@
+------------------------------------------
+	      Patient Record
+------------------------------------------
+Name		:	David_housell
+Disease 	:	Skin_problem
+Admit Date	: 	23-08-22
+Released Date	: 	26-08-22
+Medicine	:	Hydrocortisone cream
+Incharge Doctor	: 	Harry kelly
+Total Bill	: 	6100 Pkr

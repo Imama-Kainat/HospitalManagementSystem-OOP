@@ -1,0 +1,7 @@
+		PATIENTS HISTORY
+_____________________________________________________
+Name		    Disease		 Total Bill
+_____________________________________________________
+John		    Cardic_problem	  2300
+David		    Skin_problem	  4500
+Naina		    Fever 		  4300

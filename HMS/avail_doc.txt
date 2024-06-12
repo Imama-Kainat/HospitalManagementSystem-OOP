@@ -1,0 +1,5 @@
+ID		Name			Patient			fee
+006		Maria_Garcia		13			4000
+007		James_Lee		17			3450
+008		Emily_Wong		15			5400
+009		Jose_Rodriguez		9			7000

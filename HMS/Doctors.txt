@@ -1,0 +1,15 @@
+______________________________________________
+		Doctors RECORD
+______________________________________________
+ID	Name		Status	Salary
+______________________________________________
+143	John_Smith	Visiting	50000
+232	Jane_Doe	permanant	55000
+323	Bob_Johnson	Visiting	60000
+443	Alice_Lee	permanant	65000
+576	Peter_Wang	Visiting	70000
+634	Karen_Chen	Visiting	75000
+743	David_Kim	permanant	80000
+832	Sarah_Lee	Visiting	85000
+932	Mike_Brown	Visiting	90000
+144	Lisa_Liu	permanant	95000
